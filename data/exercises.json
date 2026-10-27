@@ -8,6 +8,125 @@
   ],
   "exercises": [
     {
+      "id": "db_shoulder_press",
+      "part": "어깨",
+      "name": "덤벨 숄더 프레스",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 덤벨 숄더 프레스 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "6k_teeNrI-g",
+        "url": "https://www.youtube.com/watch?v=6k_teeNrI-g",
+        "duration_sec": 609,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "lateral_raise",
+      "part": "어깨",
+      "name": "레터럴 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 레터럴 레이즈 어깨 깡패가 되는 몸짱공식",
+        "channel": "한조바디",
+        "video_id": "mOp2D0cvUxM",
+        "url": "https://www.youtube.com/watch?v=mOp2D0cvUxM",
+        "duration_sec": 238,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "front_raise",
+      "part": "어깨",
+      "name": "프론트 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 프론트레이즈를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "RuQSH745eZM",
+        "url": "https://www.youtube.com/watch?v=RuQSH745eZM",
+        "duration_sec": 288,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "bent_over_raise",
+      "part": "어깨",
+      "name": "밴트오버 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "후면어깨운동 밴트오버레이즈를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "l8yAJ5JFqtQ",
+        "url": "https://www.youtube.com/watch?v=l8yAJ5JFqtQ",
+        "duration_sec": 348,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "barbell_shoulder_press",
+      "part": "어깨",
+      "name": "바벨 숄더 프레스",
+      "equipment": "바벨",
+      "weight_basis": "봉을 포함한 전체 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 바벨 숄더 프레스를 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "X6KdrUd8vm4",
+        "url": "https://www.youtube.com/watch?v=X6KdrUd8vm4",
+        "duration_sec": 388,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "upright_row",
+      "part": "어깨",
+      "name": "업라이트 로우",
+      "equipment": "바벨",
+      "weight_basis": "봉을 포함한 전체 중량",
+      "video": {
+        "status": "found",
+        "title": "부상없이 강력한 어깨 만드는 업라이트 로우 응용법",
+        "channel": "한조바디",
+        "video_id": "XTKWhoHqEyM",
+        "url": "https://www.youtube.com/watch?v=XTKWhoHqEyM",
+        "duration_sec": 455,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "cable_rear_delt",
+      "part": "어깨",
+      "name": "케이블 후면 어깨",
+      "equipment": "케이블",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "후면삼각근 케이블 머신으로 색다른 자극을 주는 훈련방법",
+        "channel": "한조바디",
+        "video_id": "056mNMwR_QA",
+        "url": "https://www.youtube.com/watch?v=056mNMwR_QA",
+        "duration_sec": 369,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
       "id": "bench_press",
       "part": "가슴",
       "name": "벤치프레스",
@@ -76,69 +195,52 @@
       }
     },
     {
-      "id": "db_shoulder_press",
-      "part": "어깨",
-      "name": "덤벨 숄더 프레스",
+      "id": "incline_db_press",
+      "part": "가슴",
+      "name": "인클라인 덤벨 프레스",
       "equipment": "덤벨",
       "weight_basis": "한 손 덤벨의 중량",
       "video": {
         "status": "found",
-        "title": "어깨운동 덤벨 숄더 프레스 초보자도 쉽게 배워봅시다",
+        "title": "인클라인 덤벨 프레스 남자다운 가슴을 만드는 운동",
         "channel": "한조바디",
-        "video_id": "6k_teeNrI-g",
-        "url": "https://www.youtube.com/watch?v=6k_teeNrI-g",
-        "duration_sec": 609,
+        "video_id": "09kkHji5NMs",
+        "url": "https://www.youtube.com/watch?v=09kkHji5NMs",
+        "duration_sec": 1200,
         "start_sec": null,
         "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
       }
     },
     {
-      "id": "lateral_raise",
-      "part": "어깨",
-      "name": "레터럴 레이즈",
-      "equipment": "덤벨",
-      "weight_basis": "한 손 덤벨의 중량",
+      "id": "dips",
+      "part": "가슴",
+      "name": "딥스",
+      "equipment": "맨몸",
+      "weight_basis": "맨몸 운동은 0kg 입력 가능(추가 중량이 있으면 그 중량)",
       "video": {
         "status": "found",
-        "title": "어깨운동 레터럴 레이즈 어깨 깡패가 되는 몸짱공식",
+        "title": "딥스 l 평행봉으로 완벽한 가슴근육 / 삼두근육 만들기",
         "channel": "한조바디",
-        "video_id": "mOp2D0cvUxM",
-        "url": "https://www.youtube.com/watch?v=mOp2D0cvUxM",
-        "duration_sec": 238,
+        "video_id": "qf-X6P6bdHE",
+        "url": "https://www.youtube.com/watch?v=qf-X6P6bdHE",
+        "duration_sec": 438,
         "start_sec": null,
         "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
       }
     },
     {
-      "id": "front_raise",
-      "part": "어깨",
-      "name": "프론트 레이즈",
-      "equipment": "덤벨",
-      "weight_basis": "한 손 덤벨의 중량",
+      "id": "cable_crossover",
+      "part": "가슴",
+      "name": "케이블 크로스 오버",
+      "equipment": "케이블",
+      "weight_basis": "해당 기구에 표시된 중량",
       "video": {
         "status": "found",
-        "title": "어깨운동 프론트레이즈를 초보자도 쉽게 배워봅시다",
+        "title": "가슴운동 케이블 크로스 오버를 파헤쳐봅시다 -상편-",
         "channel": "한조바디",
-        "video_id": "RuQSH745eZM",
-        "url": "https://www.youtube.com/watch?v=RuQSH745eZM",
-        "duration_sec": 288,
-        "start_sec": null,
-        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
-      }
-    },
-    {
-      "id": "bent_over_raise",
-      "part": "어깨",
-      "name": "밴트오버 레이즈",
-      "equipment": "덤벨",
-      "weight_basis": "한 손 덤벨의 중량",
-      "video": {
-        "status": "found",
-        "title": "후면어깨운동 밴트오버레이즈를 초보자도 쉽게 배워봅시다",
-        "channel": "한조바디",
-        "video_id": "l8yAJ5JFqtQ",
-        "url": "https://www.youtube.com/watch?v=l8yAJ5JFqtQ",
-        "duration_sec": 348,
+        "video_id": "4DPd86SrdY0",
+        "url": "https://www.youtube.com/watch?v=4DPd86SrdY0",
+        "duration_sec": 1112,
         "start_sec": null,
         "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
       }
@@ -212,6 +314,40 @@
       }
     },
     {
+      "id": "pull_up",
+      "part": "등",
+      "name": "풀업(턱걸이)",
+      "equipment": "맨몸",
+      "weight_basis": "맨몸 운동은 0kg 입력 가능(추가 중량이 있으면 그 중량)",
+      "video": {
+        "status": "found",
+        "title": "턱걸이/풀업 광배근 넓히기 무조건 가능한 3가지 운동법",
+        "channel": "한조바디",
+        "video_id": "qU0PBfE018I",
+        "url": "https://www.youtube.com/watch?v=qU0PBfE018I",
+        "duration_sec": 516,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "cable_row",
+      "part": "등",
+      "name": "케이블 로우",
+      "equipment": "케이블",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "바디메이커 l 케이블 로우를 이용한 3가지 등운동 공략법 !!",
+        "channel": "한조바디",
+        "video_id": "SAsRCf57apw",
+        "url": "https://www.youtube.com/watch?v=SAsRCf57apw",
+        "duration_sec": 524,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
       "id": "squat",
       "part": "하체",
       "name": "스쿼트",
@@ -275,6 +411,40 @@
         "video_id": "AjtYTIOvtMw",
         "url": "https://www.youtube.com/watch?v=AjtYTIOvtMw",
         "duration_sec": 203,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "leg_curl",
+      "part": "하체",
+      "name": "레그컬",
+      "equipment": "머신",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "다리운동 레그컬 할때마다 종아리가 아픈이유!",
+        "channel": "한조바디",
+        "video_id": "CbhBb5q9JeI",
+        "url": "https://www.youtube.com/watch?v=CbhBb5q9JeI",
+        "duration_sec": 253,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "return_lunge",
+      "part": "하체",
+      "name": "리턴 런지",
+      "equipment": "맨몸",
+      "weight_basis": "맨몸 운동은 0kg 입력 가능(추가 중량이 있으면 그 중량)",
+      "video": {
+        "status": "found",
+        "title": "리턴런지로 허벅지운동과 힙업운동을 한꺼번에 !!",
+        "channel": "한조바디",
+        "video_id": "qcJJ1LNG4jg",
+        "url": "https://www.youtube.com/watch?v=qcJJ1LNG4jg",
+        "duration_sec": 692,
         "start_sec": null,
         "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
       }

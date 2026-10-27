@@ -17,10 +17,10 @@ def rec(day="2026-10-27", ex=EX, w=40, reps=10, memo="", rid=None):
     return ru.make_record(day, ex, w, reps, memo, CATALOG, rid)
 
 
-def test_catalog_has_four_parts_with_3_to_4_exercises():
+def test_catalog_has_four_parts_with_at_least_3_exercises():
     assert PARTS == ["어깨", "가슴", "등", "하체"]
     for p in PARTS:
-        assert 3 <= len(ru.exercises_by_part(CATALOG, p)) <= 4
+        assert len(ru.exercises_by_part(CATALOG, p)) >= 3
 
 
 def test_add_valid_record_and_zero_weight():
