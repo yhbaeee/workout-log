@@ -28,7 +28,7 @@ streamlit run app.py
 - 기록은 `st.session_state`(현재 브라우저 세션)에만 저장됩니다. 새로고침으로 세션이 새로 시작되거나 서버가 재시작되면 사라질 수 있습니다.
 - 서버 파일이나 외부 DB에 저장하지 않으므로, 사용 후 **JSON 백업을 다운로드**해 두세요.
 - 사용자 간 기록은 공유되지 않습니다(전역 객체·공용 캐시 미사용).
-- 입력 범위: 중량 0~1000kg, 반복 횟수 1~1000회 정수, 메모 200자 이내(오입력 방지 목적).
+- 입력 범위: 중량 0~1000kg, 반복 횟수 1~1000회 정수, 메모 200자 이내, 복원 파일 5MB 이하(오입력 방지 목적).
 
 ## JSON 백업·복원
 1. '백업·복원' 탭 → 'JSON 백업 다운로드'
@@ -42,7 +42,12 @@ python -m pytest -q
 ```
 기록 처리 로직(`record_utils.py`)의 검증·수정·삭제·백업/복원을 테스트합니다.
 
+## 화면
+`docs/screenshots/`에 최종 버전 화면 캡처(PC 및 모바일 폭)가 있습니다.
+
 ## 배포 (Streamlit Community Cloud)
+저장소: https://github.com/yhbaeee/workout-log (`main`, 진입 파일 `app.py`). `main`에 push하면 배포 앱에 자동 반영됩니다.
+
 1. 이 폴더를 GitHub 저장소에 올립니다(`.gitignore` 확인, 개인 백업 파일 제외).
 2. share.streamlit.io → Create app → Yup, I have an app
 3. 저장소·브랜치·파일 경로(`app.py`) 입력

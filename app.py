@@ -279,7 +279,7 @@ def tab_backup():
 
     st.markdown("#### 백업에서 복원")
     st.caption("복원하면 현재 기록이 모두 백업 파일의 기록으로 교체됩니다.")
-    up = st.file_uploader("백업 JSON 파일", type=["json"], key=f"uploader_{ss.uploader_n}")
+    up = st.file_uploader("백업 JSON 파일 (5MB 이하)", type=["json"], key=f"uploader_{ss.uploader_n}")
     if up is not None and ss.pending_restore is None:
         if up.size > 5_000_000:
             st.error("파일이 너무 큽니다.")
