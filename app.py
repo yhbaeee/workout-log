@@ -314,7 +314,7 @@ def tab_backup():
         c2.button("취소", key="cancel_demo", on_click=cancel_demo)
 
     st.markdown("#### 전체 기록 초기화")
-    ss.confirm_reset = st.checkbox("모든 기록을 삭제하는 것에 동의합니다", value=ss.confirm_reset)
+    st.checkbox("모든 기록을 삭제하는 것에 동의합니다", key="confirm_reset")
     st.button("전체 초기화", disabled=not (ss.confirm_reset and ss.records), on_click=do_reset)
 
 
