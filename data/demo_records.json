@@ -1,0 +1,215 @@
+{
+  "app": "오늘의 운동기록",
+  "version": 1,
+  "exported_at": "2026-10-27T00:00:00",
+  "records": [
+    {
+      "record_id": "demo-001",
+      "date": "2026-10-20",
+      "exercise_id": "bench_press",
+      "weight_kg": 40.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-002",
+      "date": "2026-10-20",
+      "exercise_id": "bench_press",
+      "weight_kg": 40.0,
+      "reps": 8,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-003",
+      "date": "2026-10-20",
+      "exercise_id": "bench_press",
+      "weight_kg": 45.0,
+      "reps": 6,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-004",
+      "date": "2026-10-20",
+      "exercise_id": "db_press",
+      "weight_kg": 14.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-005",
+      "date": "2026-10-20",
+      "exercise_id": "db_press",
+      "weight_kg": 14.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-006",
+      "date": "2026-10-20",
+      "exercise_id": "db_press",
+      "weight_kg": 14.0,
+      "reps": 9,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-007",
+      "date": "2026-10-20",
+      "exercise_id": "push_up",
+      "weight_kg": 0.0,
+      "reps": 15,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-008",
+      "date": "2026-10-20",
+      "exercise_id": "push_up",
+      "weight_kg": 0.0,
+      "reps": 12,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-009",
+      "date": "2026-10-22",
+      "exercise_id": "lat_pulldown",
+      "weight_kg": 35.0,
+      "reps": 12,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-010",
+      "date": "2026-10-22",
+      "exercise_id": "lat_pulldown",
+      "weight_kg": 40.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-011",
+      "date": "2026-10-22",
+      "exercise_id": "lat_pulldown",
+      "weight_kg": 40.0,
+      "reps": 9,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-012",
+      "date": "2026-10-22",
+      "exercise_id": "one_arm_db_row",
+      "weight_kg": 16.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-013",
+      "date": "2026-10-22",
+      "exercise_id": "one_arm_db_row",
+      "weight_kg": 16.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-014",
+      "date": "2026-10-22",
+      "exercise_id": "one_arm_db_row",
+      "weight_kg": 18.0,
+      "reps": 8,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-015",
+      "date": "2026-10-24",
+      "exercise_id": "squat",
+      "weight_kg": 50.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-016",
+      "date": "2026-10-24",
+      "exercise_id": "squat",
+      "weight_kg": 60.0,
+      "reps": 8,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-017",
+      "date": "2026-10-24",
+      "exercise_id": "squat",
+      "weight_kg": 60.0,
+      "reps": 8,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-018",
+      "date": "2026-10-24",
+      "exercise_id": "leg_press",
+      "weight_kg": 90.0,
+      "reps": 12,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-019",
+      "date": "2026-10-24",
+      "exercise_id": "leg_press",
+      "weight_kg": 100.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-020",
+      "date": "2026-10-24",
+      "exercise_id": "leg_press",
+      "weight_kg": 100.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-021",
+      "date": "2026-10-26",
+      "exercise_id": "db_shoulder_press",
+      "weight_kg": 10.0,
+      "reps": 10,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-022",
+      "date": "2026-10-26",
+      "exercise_id": "db_shoulder_press",
+      "weight_kg": 10.0,
+      "reps": 9,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-023",
+      "date": "2026-10-26",
+      "exercise_id": "db_shoulder_press",
+      "weight_kg": 12.0,
+      "reps": 6,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-024",
+      "date": "2026-10-26",
+      "exercise_id": "lateral_raise",
+      "weight_kg": 5.0,
+      "reps": 15,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-025",
+      "date": "2026-10-26",
+      "exercise_id": "lateral_raise",
+      "weight_kg": 5.0,
+      "reps": 13,
+      "memo": ""
+    },
+    {
+      "record_id": "demo-026",
+      "date": "2026-10-26",
+      "exercise_id": "lateral_raise",
+      "weight_kg": 5.0,
+      "reps": 12,
+      "memo": ""
+    }
+  ]
+}

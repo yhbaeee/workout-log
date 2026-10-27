@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "parts": [
+    "어깨",
+    "가슴",
+    "등",
+    "하체"
+  ],
+  "exercises": [
+    {
+      "id": "bench_press",
+      "part": "가슴",
+      "name": "벤치프레스",
+      "equipment": "바벨",
+      "weight_basis": "봉을 포함한 전체 중량",
+      "video": {
+        "status": "found",
+        "title": "가슴운동 벤치프레스를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "KyQiUIBvutI",
+        "url": "https://www.youtube.com/watch?v=KyQiUIBvutI",
+        "duration_sec": 460,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "db_press",
+      "part": "가슴",
+      "name": "덤벨 프레스",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "가슴운동 덤벨 프레스를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "ZrMM99aVVtA",
+        "url": "https://www.youtube.com/watch?v=ZrMM99aVVtA",
+        "duration_sec": 332,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "db_fly",
+      "part": "가슴",
+      "name": "덤벨 플라이",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "덤벨 플라이 l 넓은 가슴근육을 원한다면 꼭 해야하는 가슴운동",
+        "channel": "한조바디",
+        "video_id": "8mSWqB3Yqm4",
+        "url": "https://www.youtube.com/watch?v=8mSWqB3Yqm4",
+        "duration_sec": 281,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "push_up",
+      "part": "가슴",
+      "name": "푸쉬업",
+      "equipment": "맨몸",
+      "weight_basis": "맨몸 운동은 0kg 입력 가능(추가 중량이 있으면 그 중량)",
+      "video": {
+        "status": "found",
+        "title": "팔 운동? 가슴운동? 푸쉬업 (팔굽혀펴기) 정확한 운동방법 !!",
+        "channel": "한조바디",
+        "video_id": "lbyveaPFb5k",
+        "url": "https://www.youtube.com/watch?v=lbyveaPFb5k",
+        "duration_sec": 421,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "db_shoulder_press",
+      "part": "어깨",
+      "name": "덤벨 숄더 프레스",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 덤벨 숄더 프레스 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "6k_teeNrI-g",
+        "url": "https://www.youtube.com/watch?v=6k_teeNrI-g",
+        "duration_sec": 609,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "lateral_raise",
+      "part": "어깨",
+      "name": "레터럴 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 레터럴 레이즈 어깨 깡패가 되는 몸짱공식",
+        "channel": "한조바디",
+        "video_id": "mOp2D0cvUxM",
+        "url": "https://www.youtube.com/watch?v=mOp2D0cvUxM",
+        "duration_sec": 238,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "front_raise",
+      "part": "어깨",
+      "name": "프론트 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "어깨운동 프론트레이즈를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "RuQSH745eZM",
+        "url": "https://www.youtube.com/watch?v=RuQSH745eZM",
+        "duration_sec": 288,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "bent_over_raise",
+      "part": "어깨",
+      "name": "밴트오버 레이즈",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "후면어깨운동 밴트오버레이즈를 초보자도 쉽게 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "l8yAJ5JFqtQ",
+        "url": "https://www.youtube.com/watch?v=l8yAJ5JFqtQ",
+        "duration_sec": 348,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "one_arm_db_row",
+      "part": "등",
+      "name": "원암 덤벨로우",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "초보자도 쉽게 등운동 원암덤벨로우를 배워봅시다",
+        "channel": "한조바디",
+        "video_id": "_SPtjbTfo3Y",
+        "url": "https://www.youtube.com/watch?v=_SPtjbTfo3Y",
+        "duration_sec": 438,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "lat_pulldown",
+      "part": "등",
+      "name": "랫풀다운",
+      "equipment": "머신",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "광배근 프레임 넓히는 랫 풀 다운 꿀팁 I 역삼각형 등과 어깨 넓어지는 운동법",
+        "channel": "한조바디",
+        "video_id": "J4t-8e_NqjQ",
+        "url": "https://www.youtube.com/watch?v=J4t-8e_NqjQ",
+        "duration_sec": 339,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "seated_row_machine",
+      "part": "등",
+      "name": "머신 시티드 로우",
+      "equipment": "머신",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "넓고 강력한 등을 원한다면 꼭 해야되는 등 운동 l 머신 시티드 로우",
+        "channel": "한조바디",
+        "video_id": "o6p5oBl5DZE",
+        "url": "https://www.youtube.com/watch?v=o6p5oBl5DZE",
+        "duration_sec": 238,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "bent_over_barbell_row",
+      "part": "등",
+      "name": "밴트오버 바벨로우",
+      "equipment": "바벨",
+      "weight_basis": "봉을 포함한 전체 중량",
+      "video": {
+        "status": "found",
+        "title": "밴트오버 바벨로우 I 등이 강해지는 운동 밴트오버 바벨로우 마스터하기",
+        "channel": "한조바디",
+        "video_id": "SINQ1HX3Ttg",
+        "url": "https://www.youtube.com/watch?v=SINQ1HX3Ttg",
+        "duration_sec": 676,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "squat",
+      "part": "하체",
+      "name": "스쿼트",
+      "equipment": "바벨",
+      "weight_basis": "봉을 포함한 전체 중량",
+      "video": {
+        "status": "found",
+        "title": "스쿼트 자세가 엉망인 당신이 꼭 해야되는 3가지 방법",
+        "channel": "한조바디",
+        "video_id": "d6G-FVLD378",
+        "url": "https://www.youtube.com/watch?v=d6G-FVLD378",
+        "duration_sec": 480,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "leg_press",
+      "part": "하체",
+      "name": "레그프레스",
+      "equipment": "머신",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "탄력있는 다리를 갖고 싶다면 레그프레스에 도전하라!",
+        "channel": "한조바디",
+        "video_id": "QLOIwy66i9U",
+        "url": "https://www.youtube.com/watch?v=QLOIwy66i9U",
+        "duration_sec": 596,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "lunge",
+      "part": "하체",
+      "name": "런지",
+      "equipment": "덤벨",
+      "weight_basis": "한 손 덤벨의 중량",
+      "video": {
+        "status": "found",
+        "title": "엉짱 힙업에 도움되는 런지 자세 교정하기",
+        "channel": "한조바디",
+        "video_id": "AlOPkL7dQio",
+        "url": "https://www.youtube.com/watch?v=AlOPkL7dQio",
+        "duration_sec": 706,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    },
+    {
+      "id": "leg_extension",
+      "part": "하체",
+      "name": "레그익스텐션",
+      "equipment": "머신",
+      "weight_basis": "해당 기구에 표시된 중량",
+      "video": {
+        "status": "found",
+        "title": "레그익스텐션으로 더 강력한 하체 만드는 꿀팁!!",
+        "channel": "한조바디",
+        "video_id": "AjtYTIOvtMw",
+        "url": "https://www.youtube.com/watch?v=AjtYTIOvtMw",
+        "duration_sec": 203,
+        "start_sec": null,
+        "verified_scope": "채널 영상 목록의 제목·길이와 oEmbed의 제목·채널명 확인. 영상 시청·자막 확인 없음"
+      }
+    }
+  ]
+}
